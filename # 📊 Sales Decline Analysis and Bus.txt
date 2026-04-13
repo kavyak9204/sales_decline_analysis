@@ -1,0 +1,38 @@
+# 📊 Sales Decline Analysis and Business Optimization
+
+## Project Overview
+This project analyzes declining sales and identifies key factors affecting business performance using end-to-end data analytics.
+
+##  Tools Used
+- Excel (Power Query)
+- Python (Pandas)
+- SQL (SSMS)
+- Power BI
+
+## Data Cleaning
+- Handled missing values and duplicates
+- Fixed inconsistent date formats
+- Standardized data for analysis
+
+## Analysis Performed
+- Created metrics like final price and total sales
+- Analyzed sales by region, category, and customer
+- Identified top-performing and low-performing products
+- Evaluated impact of discounts on profit
+- Studied monthly and yearly sales trends
+
+## Key Insights
+- Some regions showed low sales performance
+- High discounts reduced profitability
+- Few customers contributed major revenue
+- Certain products underperformed
+
+##  Business Recommendations
+- Focus marketing on low-performing regions
+- Optimize discount strategy to improve profit
+- Improve inventory planning based on demand
+- Use customer insights for retention
+
+##  Dashboard
+Power BI dashboard created to visualize KPIs such as sales, profit, trends, and regional performance.
+
